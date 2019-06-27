@@ -1,2 +1,1 @@
-# Learning-C-
-Learning C++
+i am learning C++
